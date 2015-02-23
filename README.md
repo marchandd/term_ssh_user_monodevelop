@@ -1,0 +1,2 @@
+# term_ssh_user_monodevelop
+term_ssh_user_monodevelop Docker image
