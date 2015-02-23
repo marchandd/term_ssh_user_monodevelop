@@ -36,7 +36,7 @@ Around 1000 Mb.
 
 ### Command line explanation
 
-All details on [parent image](https://github.com/marchandd/term_ssh_user_monodotnet45/README.md "Parent")
+All details on [parent image](https://github.com/marchandd/term_ssh_user_monodotnet45/ "Parent")
 
 3 methods to find password:
 
@@ -86,7 +86,7 @@ When you are into SSH access.
 
 ### Dockerfile
 
-All details on [parent image](https://github.com/marchandd/term_ssh_user_monodotnet45/README.md "Parent")
+All details on [parent image](https://github.com/marchandd/term_ssh_user_monodotnet45/ "Parent")
 
 - Download MonoDevelop from Xamarin.
 - Download MonoDevelop-nunit from Xamarin.
