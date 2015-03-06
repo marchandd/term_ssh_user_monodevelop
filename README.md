@@ -34,19 +34,6 @@ Around 1000 Mb.
 
 :computer: `docker pull marchandd/term_ssh_user_monodevelop`
 
-### Command line explanation
-
-All details on [parent image](https://github.com/marchandd/term_ssh_user_monodotnet45/ "Parent")
-
-3 methods to find password:
-
-- Search password value into build.log file from marchandd/term_ssh_user_monodotnet45 image to access later to container.
-
-- If you don't have build image with log file redirection, use this comand:  
-:computer: `docker inspect IMAGEID`
-
-- If you don't have password value, enter directly into container to find log inside with [Nsenter](http://itsagooddaytobegeek.com/docker-ep-02-installation-de-nsenter/ "Nsenter")
-
 ### Firewall
 
 :warning: If your Firewall is enabled on the host, with default outgoing policy turned to 
@@ -73,6 +60,7 @@ Where YYYYY is your Private port, if you doesn't know free port, try from 49200.
 ### SSH access
 
 Open terminal with docker account.
+Basic fixed password for Docker public repository from marchandd/term_ssh_user_monodotnet45 image = 'term_ssh_user_monodotnet45'
 
 :computer: `ssh -X docker@XXX.XXX.XXX.XXX -p YYYYY`
 
