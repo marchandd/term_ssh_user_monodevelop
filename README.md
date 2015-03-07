@@ -16,7 +16,7 @@ This image also included Xamarin:copyright: monodevelop and MonoDevelop-nunit (t
 
 ### Image size
 
-Around 1000 Mb.
+Around 1050 Mb.
 
 ### References
 
