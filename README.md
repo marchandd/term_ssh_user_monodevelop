@@ -68,7 +68,7 @@ Basic fixed password for Docker public repository from marchandd/term_ssh_user_m
 
 When you are into SSH access.
 
-:computer: `monodevelop`
+:computer: `monodevelop` v5.9.6 (at 20151117)
 
 ## Explanations
 
